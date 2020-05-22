@@ -95,7 +95,7 @@
 						location-mgmt
 					</finalName>
 					<outputDirectory>
-						../../ubuntu/test
+						/home/ubuntu/test
 					</outputDirectory>
 				</configuration>
 			</plugin>
