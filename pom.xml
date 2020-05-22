@@ -95,7 +95,7 @@
 						location-mgmt
 					</finalName>
 					<outputDirectory>
-						/home/ubuntu/test
+						../../minchu-jars
 					</outputDirectory>
 				</configuration>
 			</plugin>
